@@ -1,0 +1,6 @@
+last_name = input("Enter the student's last name: ")
+midterm_score = float(input("Enter the midterm exam score: "))
+final_score = float(input("Enter the final exam score: "))
+total_exam_points = (midterm_score * 0.40) + (final_score * 0.60)
+print(f"Student last name: {last_name}")
+print(f"Total exam points: {total_exam_points:.2f}")
