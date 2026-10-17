@@ -1,0 +1,10 @@
+Smith,88
+Johnson,92
+Williams,75
+Brown,64
+Jones,99
+Garcia,81
+Miller,70
+Davis,85
+Rodriguez,93
+Martinez,78
